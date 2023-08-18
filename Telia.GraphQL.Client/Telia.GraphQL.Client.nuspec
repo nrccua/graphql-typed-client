@@ -16,8 +16,8 @@
     <tags>GraphQL client</tags>
   </metadata>
   <files>
-    <file src="bin\Debug\GraphQLParser.dll" target="lib\net461" />
-    <file src="bin\Debug\Telia.GraphQL.Client.dll" target="lib\net481" />
+    <file src="bin\Release\GraphQLParser.dll" target="lib\net461" />
+    <file src="bin\Release\Telia.GraphQL.Client.dll" target="lib\net481" />
 </files>
 
 </package>
